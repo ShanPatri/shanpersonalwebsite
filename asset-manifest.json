@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/shanpersonalwebsite/static/css/main.94fd9f30.css",
+    "main.js": "/shanpersonalwebsite/static/js/main.a60d88fe.js",
+    "static/media/shanen1.jpg": "/shanpersonalwebsite/static/media/shanen1.3e19176d800d2f2de566.jpg",
+    "index.html": "/shanpersonalwebsite/index.html",
+    "main.94fd9f30.css.map": "/shanpersonalwebsite/static/css/main.94fd9f30.css.map",
+    "main.a60d88fe.js.map": "/shanpersonalwebsite/static/js/main.a60d88fe.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.94fd9f30.css",
+    "static/js/main.a60d88fe.js"
+  ]
+}
