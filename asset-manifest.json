@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/shanpersonalwebsite/static/css/main.2965d87d.css",
-    "main.js": "/shanpersonalwebsite/static/js/main.51162044.js",
+    "main.css": "/shanpersonalwebsite/static/css/main.a9fb11cc.css",
+    "main.js": "/shanpersonalwebsite/static/js/main.23c02be5.js",
     "static/media/shanen1.jpg": "/shanpersonalwebsite/static/media/shanen1.3e19176d800d2f2de566.jpg",
     "index.html": "/shanpersonalwebsite/index.html",
-    "main.2965d87d.css.map": "/shanpersonalwebsite/static/css/main.2965d87d.css.map",
-    "main.51162044.js.map": "/shanpersonalwebsite/static/js/main.51162044.js.map"
+    "main.a9fb11cc.css.map": "/shanpersonalwebsite/static/css/main.a9fb11cc.css.map",
+    "main.23c02be5.js.map": "/shanpersonalwebsite/static/js/main.23c02be5.js.map"
   },
   "entrypoints": [
-    "static/css/main.2965d87d.css",
-    "static/js/main.51162044.js"
+    "static/css/main.a9fb11cc.css",
+    "static/js/main.23c02be5.js"
   ]
 }
